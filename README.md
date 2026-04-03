@@ -1,2 +1,2 @@
 # DLS26, spring
-##1st semestr
+## 1st semestr
